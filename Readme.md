@@ -5,5 +5,25 @@
 ## Introduction
 This repository contains a Java program that demonstrates the use of the `StringBuilder` class through various exercises.
 
-## Sample Output
- ![img.png](img.png)
+## Exercises
+1. **append() - Appending Content**
+
+![img.png](img.png)
+2. **insert() - Inserting Content at a Position**
+
+![img_1.png](img_1.png)
+3. **delete() - Deleting Content**
+
+![img_2.png](img_2.png)
+4. **replace() - Replacing a Section**
+
+![img_3.png](img_3.png)
+5. **Method Chaining**
+
+![img_4.png](img_4.png)
+6. **substring(), indexOf(), and Non-Existing Words**
+
+![img_5.png](img_5.png)
+7. **toString() - Converting back to a String**
+
+![img_6.png](img_6.png)
